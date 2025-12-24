@@ -64,28 +64,4 @@ You can easily customize:
 
 ---
 
-## 📤 Hosting Options
 
-You can host your club website using:
-
-* **GitHub Pages** (free)
-* **Netlify** (free)
-* **Vercel** (free)
-* **Your college server**
-
----
-
-## 👨‍💻 Technologies Used
-
-* **HTML5**
-* **CSS3**
-* **JavaScript (optional)**
-
----
-
-## 📞 Contact
-
-If you want to add support info, you can include:
-
-* Club Email
-* Instagram Pag
